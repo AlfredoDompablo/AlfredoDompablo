@@ -1,124 +1,135 @@
-# 👋 Hi, I'm Oscar Alfredo Dompablo
+# 👋 Hola, soy Oscar Alfredo Dompablo
 
-🚀 Telematics Engineer | IoT & Fullstack Developer  
-🌊 Building production-ready IoT monitoring systems  
-📡 Distributed architectures • Embedded systems • Secure web platforms  
-
----
-## 🧰 Core Technologies
-
-![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=white)
-![Auth.js](https://img.shields.io/badge/Auth.js-1a1b27?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED)
-![ESP32](https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&logoColor=red)
+🚀 Ingeniero Telemático | Desarrollador IoT y Fullstack
+🌊 Desarrollo sistemas de monitoreo IoT listos para producción
+📡 Arquitecturas distribuidas • Sistemas embebidos • Plataformas web seguras
 
 ---
 
-## 💼 What I Build
+## 🧰 Tecnologías Principales
 
-I design and implement end-to-end IoT platforms that integrate:
-
-- Embedded sensor firmware (ESP32)
-- Wireless communication layers
-- Secure backend APIs
-- Authentication & access control
-- Relational database architecture
-- Containerized deployment environments
-
-Focused on scalable system design, security, and robust hardware–software integration.
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge\&logo=postgresql\&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-1a1b27?style=for-the-badge\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![ESP32](https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge\&logoColor=red)
 
 ---
 
-## 🧠 Main Project – MONICA
+## 💼 Qué desarrollo
 
-### 🌊 Environmental Monitoring Platform
+Diseño e implemento **plataformas IoT de extremo a extremo**, integrando:
 
-A production-oriented IoT platform for real-time environmental and water quality monitoring.
+* Firmware para sensores embebidos (ESP32)
+* Capas de comunicación inalámbrica
+* APIs backend seguras
+* Sistemas de autenticación y control de acceso
+* Arquitecturas de bases de datos relacionales
+* Entornos de despliegue contenedorizados
 
-### 🏗 High-Level Architecture
-
-ESP32 Sensor Nodes  
-→ Wireless Transmission Layer  
-→ Next.js API Routes (Node.js runtime)  
-→ PostgreSQL Database  
-→ Prisma ORM  
-→ Auth.js Authentication Layer  
-→ Next.js Dashboard (SSR)  
-
-This architecture demonstrates full-stack integration from embedded devices to secure web applications.
+Con enfoque en **arquitectura escalable, seguridad y una integración robusta entre hardware y software**.
 
 ---
 
-## ⚙ Technology Stack
+## 🧠 Proyecto Principal – MONICA
+
+### 🌊 Plataforma de Monitoreo Ambiental
+
+Plataforma IoT orientada a producción para el **monitoreo en tiempo real de parámetros ambientales y calidad del agua**.
+
+### 🏗 Arquitectura de Alto Nivel
+
+Nodos de sensores ESP32
+→ Capa de transmisión inalámbrica
+→ API Routes de Next.js (runtime Node.js)
+→ Base de datos PostgreSQL
+→ ORM Prisma
+→ Capa de autenticación Auth.js
+→ Dashboard web en Next.js (SSR)
+
+Esta arquitectura demuestra la **integración full-stack desde dispositivos embebidos hasta aplicaciones web seguras**.
+
+---
+
+## ⚙ Stack Tecnológico
 
 ### 🖥 Frontend
-- Next.js (React, SSR)
-- TailwindCSS
+
+* Next.js (React, SSR)
+* TailwindCSS
 
 ### 🧠 Backend
-- Node.js (via Next.js API Routes)
-- RESTful API design
 
-### 🔐 Authentication
-- Auth.js (NextAuth)
-- Session management
-- Route protection & access control
+* Node.js (mediante API Routes de Next.js)
+* Diseño de APIs REST
 
-### 🗄 Database
-- PostgreSQL
-- Relational schema design
+### 🔐 Autenticación
+
+* Auth.js (NextAuth)
+* Manejo de sesiones
+* Protección de rutas y control de acceso
+
+### 🗄 Base de Datos
+
+* PostgreSQL
+* Diseño de esquemas relacionales
 
 ### 🔄 ORM
-- Prisma (type-safe queries & migrations)
 
-### 🐳 Infrastructure
-- Docker
-- Containerized services & environment configuration
+* Prisma (consultas tipadas y migraciones)
 
-### 🧪 Development Environment
-- Debian Linux
-- i3wm
-- CLI-driven workflow
+### 🐳 Infraestructura
 
-### 🔌 Embedded
-- ESP32 firmware development
-- Sensor integration (analog & digital)
-- Wireless data transmission
+* Docker
+* Servicios contenedorizados y configuración de entornos
+
+### 🧪 Entorno de Desarrollo
+
+* Debian Linux
+* i3wm
+* Flujo de trabajo basado en CLI
+
+### 🔌 Sistemas Embebidos
+
+* Desarrollo de firmware para ESP32
+* Integración de sensores analógicos y digitales
+* Transmisión inalámbrica de datos
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Repositorios Destacados
 
-### 🔹 MONICA  
-Production-ready IoT monitoring platform  
+### 🔹 MONICA
+
+Plataforma IoT de monitoreo ambiental de extremo a extremo
 (Next.js + PostgreSQL + Prisma + Auth.js + Docker + ESP32)
 
-### 🔹 Proyecto-terminal  
-Technical documentation and distributed system analysis of the monitoring architecture.
+### 🔹 Proyecto-terminal
+
+Documentación técnica y análisis de la arquitectura distribuida del sistema de monitoreo.
 
 ---
 
-## 🎯 Engineering Strengths
+## 🎯 Fortalezas en Ingeniería
 
-✔ End-to-end system architecture  
-✔ Secure authentication implementation  
-✔ Database modeling & migrations  
-✔ Containerized deployments  
-✔ Hardware–software integration  
-✔ Real-world IoT system development  
+✔ Arquitectura de sistemas de extremo a extremo
+✔ Implementación de autenticación segura
+✔ Modelado y migraciones de bases de datos
+✔ Despliegues contenedorizados
+✔ Integración hardware–software
+✔ Desarrollo de sistemas IoT aplicados al mundo real
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td valign="middle" style="border: none;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlfredoDompablo&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&custom_title=Top%20Languages&bg_color=00000000&card_width=350" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlfredoDompablo&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&custom_title=Lenguajes%20Principales&bg_color=00000000&card_width=350" />
       </td>
       <td valign="middle" style="border: none;">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlfredoDompablo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" width="450" />
@@ -129,29 +140,34 @@ Technical documentation and distributed system analysis of the monitoring archit
 
 ---
 
-## 🛠 Engineering Mindset
+## 🛠 Enfoque de Ingeniería
 
-✔ Systems thinking  
-✔ Hardware–Software integration  
-✔ Network optimization  
-✔ Clean architecture  
-✔ Real-world problem solving  
-
----
-
-## 🤝 Open to Opportunities
-
-Interested in:
-- IoT Development
-- Embedded Systems Engineering
-- Telecommunications
-- Backend / Fullstack roles
-- Environmental Tech & Smart Infrastructure
-- Open to early-career opportunities in IoT, backend and fullstack engineering.
+✔ Pensamiento sistémico
+✔ Integración hardware–software
+✔ Optimización de redes
+✔ Arquitectura limpia
+✔ Resolución de problemas en entornos reales
 
 ---
 
-## 📫 Contact
+## 🤝 Abierto a Oportunidades
 
-- **LinkedIn:** [linkedin.com/in/oscar-alfredo-dompablo-celaya](https://www.linkedin.com/in/oscar-alfredo-dompablo-celaya-5a6a4b386/)
-- **Email:** oscardompablo@gmail.com
+Interesado en:
+
+* Desarrollo IoT
+* Ingeniería de sistemas embebidos
+* Telecomunicaciones
+* Desarrollo Backend / Fullstack
+* Tecnología ambiental e infraestructura inteligente
+
+Actualmente abierto a **oportunidades profesionales de nivel inicial en IoT, backend o desarrollo fullstack**.
+
+---
+
+## 📫 Contacto
+
+* **LinkedIn:**
+  https://www.linkedin.com/in/oscar-alfredo-dompablo-celaya-5a6a4b386/
+
+* **Email:**
+  [oscardompablo@gmail.com](mailto:oscardompablo@gmail.com)
